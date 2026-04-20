@@ -7,6 +7,7 @@
       "launchBrowser": true,
       "launchUrl": "scalar/v1",
       "applicationUrl": "http://localhost:5204",
+      "applicationUrl": "http://localhost:5072",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
