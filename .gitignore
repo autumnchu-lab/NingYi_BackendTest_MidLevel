@@ -1,0 +1,10 @@
+# Visual Studio 暫存與快取
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.userosscache
+*.sln.docstates
+
+# 其他常見忽略
+.DS_Store
